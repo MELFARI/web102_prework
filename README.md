@@ -21,18 +21,16 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://drive.google.com/file/d/13ryuvjtsnyxZ9nRKT2UjFPNRatF-lDgy/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://drive.google.com/file/d/13ryuvjtsnyxZ9nRKT2UjFPNRatF-lDgy/view?usp=sharing
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LICEcap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
-## Notes
 
-Describe any challenges encountered while building the app.
 
 ## License
 
